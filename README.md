@@ -25,9 +25,8 @@ Ensure Python is installed on your system.
 Save the code as calculator.py.
 
 Open your terminal (remember, move it to the left if you prefer!) and run:
-
-Bash
 python calculator.py
+
 ## 🧠 Technical Highlights
 Lambda Functions: Used lambda inside a loop to assign unique actions to buttons efficiently.
 
