@@ -24,7 +24,7 @@ A sleek, functional Graphical User Interface (GUI) calculator built using Python
 
 2. Save the code as calculator.py.
 
-3. Open your terminal (remember, move it to the left if you prefer!) and run:
+3. Open your terminal and run:
 python calculator.py
 
 ## 🧠 Technical Highlights
@@ -33,3 +33,6 @@ python calculator.py
 * Grid Geometry Manager: Implemented sticky="nsew" and grid_weight to ensure the UI looks consistent across different screen scalings.
 
 * Try-Except Blocks: Robust handling of edge cases to prevent the application from crashing.
+
+## Author
+Rutuja Wagh
