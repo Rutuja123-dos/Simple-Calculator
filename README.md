@@ -20,11 +20,11 @@ A sleek, functional Graphical User Interface (GUI) calculator built using Python
 * Eval Function: Utilized for dynamic mathematical expression evaluation.
 
 ## 📋 How to Run
-Ensure Python is installed on your system.
+1. Ensure Python is installed on your system.
 
-Save the code as calculator.py.
+2. Save the code as calculator.py.
 
-Open your terminal (remember, move it to the left if you prefer!) and run:
+3. Open your terminal (remember, move it to the left if you prefer!) and run:
 python calculator.py
 
 ## 🧠 Technical Highlights
